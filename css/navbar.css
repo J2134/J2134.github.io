@@ -1,0 +1,21 @@
+#navStyle{
+    background: transparent !important;
+    font-family: 'Quantico', sans-serif;
+    font-size: 35px;
+    height: 1em;
+}
+#listStyle{
+    margin-left: 35%;
+}
+#home{
+    color: yellow;
+}
+#projects{
+    color: yellow;
+}
+#resume{
+    color: yellow
+}
+#aboutMe{
+    color: yellow
+}
